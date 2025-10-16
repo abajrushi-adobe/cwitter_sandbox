@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/abajrushi-adobe/cwittersandbox/
+    url: https://github.com/abajrushi-adobe/cwittersandbox/
     type: markup
 
 folders:
